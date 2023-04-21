@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Deluxe Room",
+      "photo": "https://images.unsplash.com/photo-1557124804-02804b599cf2?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&ixid=MnwxfDB8MXxyYW5kb218MHx8YmVkcm9vbSxob3RlbHx8fHx8fDE2ODE4ODAwOTg&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=800",
+      "description": "A spacious and elegant room with a king-size bed, a writing desk, and a luxurious bathroom.",
+      "beds": 1,
+      "persons": 2,
+      "price": 250
+    },
+    {
+      "title": "Standard Room",
+      "photo": "https://images.unsplash.com/photo-1600210491305-7396500b5b31?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&ixid=MnwxfDB8MXxyYW5kb218MHx8YmVkcm9vbXx8fHx8fDE2ODE4Nzk5NTU&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=800",
+      "description": "A comfortable and cozy room with a queen-size bed, a work desk, and a modern bathroom.",
+      "beds": 1,
+      "persons": 2,
+      "price": 150
+    },
+    {
+      "title": "Family Room",
+      "photo": "https://images.unsplash.com/photo-1595526051245-4506e0005bd0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&ixid=MnwxfDB8MXxyYW5kb218MHx8YmVkcm9vbXx8fHx8fDE2ODE4Nzk4MzU&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=800",
+      "description": "A spacious and comfortable room with two queen-size beds, a sitting area, and a large bathroom.",
+      "beds": 2,
+      "persons": 4,
+      "price": 350
+    },
+    {
+      "title": "Suite",
+      "photo": "https://images.unsplash.com/photo-1632210702485-e1841e30752a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&ixid=MnwxfDB8MXxyYW5kb218MHx8YmVkcm9vbXx8fHx8fDE2ODE4Nzk4Mzk&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=800",
+      "description": "A luxurious and spacious suite with a king-size bed, a separate living room, and a marble bathroom.",
+      "beds": 1,
+      "persons": 2,
+      "price": 500
+    },
+    {
+      "title": "Single Room",
+      "photo": "https://images.unsplash.com/photo-1633505650701-6104c4fc72c2?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&ixid=MnwxfDB8MXxyYW5kb218MHx8YmVkcm9vbXx8fHx8fDE2ODE4Nzk4OTg&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=800",
+      "description": "A cozy and comfortable room with a twin-size bed, a work desk, and a private bathroom.",
+      "beds": 1,
+      "persons": 1,
+      "price": 100
+    }
+  ]
+  
